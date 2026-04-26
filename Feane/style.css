@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    
+}
+.mainDivFrist{
+    border: 1px solid black;
+    background-image: url(../images/hero-bg.jpg); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.headDown{
+    border: 1px solid #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.menu-bars{
+    color: white;
+}
+.menu-bars:hover{
+    color: orange;
+}
+.menu-bar{
+    display: flex;
+    gap: 1.6rem;
+    padding-left: 280px;
+}
+.name{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size:2.5rem;
+    padding-right: 40px;
+}
+.name1{
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    font-size: 62px;
+}
+.icon
+{
+    color: white;
+}
+.butn{
+    height: 40px;
+    width: 150px;
+    background-color: orange;
+    color: white;
+    border-radius: 20px;
+    border: 0;
+}
+.icons{
+    display: flex;
+    gap: 1.1rem;
+    padding-left: 120px
+}
+.btn1{
+    padding-left: 30px;
+}
+.menu-bars1{
+    color: orange;
+}
+.para{
+    color: white;
+}
+.headerdown{
+    padding: 122px 0 0 211px;
+    flex-wrap: wrap;
+}
+.btnDiv{
+    padding-top: 8px;
+    padding-bottom: 300px;
+}
