@@ -72,3 +72,49 @@
     padding-top: 8px;
     padding-bottom: 300px;
 }
+.btnC{
+    background-color: orange;
+    height: 44px;
+    width: 178px;
+    border-radius: 40px;
+}
+.no1{
+    border: 1px solid black;
+}
+.no2{
+    border: 1px solid black;
+    margin: 50px 0 0 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    padding-bottom: 45px;
+    
+    
+}
+.box-1{
+    display: flex;
+    border: 1px solid black;
+    height: 215px;
+    width: 555px;
+    margin: 45px 0 0;
+    padding: 20px 15px;
+    gap: 18px;
+    background-color: #222831;
+    border-radius: 5px;
+}
+.o1{
+    border-radius: 90px;
+    border: 5px solid orange;
+    height: 165.4px;
+    width: 165.4px;
+}
+.a1{
+    padding-bottom: px;
+    font-size: 24px;
+}
+.imgleft{
+    padding-top: 20px;
+    color: white;
+    font-family:'Dancing Script', cursive;
+}
