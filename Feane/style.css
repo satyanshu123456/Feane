@@ -1,162 +1,191 @@
-*{
-    margin: 0;
-    
+* {
+  margin: 0;
 }
-.mainDivFrist{
-    border: 1px solid black;
-    background-image: url(../images/hero-bg.jpg); 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+.mainDivFrist {
+  border: 1px solid black;
+  background-image: url(../images/hero-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-.headDown{
-    border: 1px solid #000;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding-top: 20px;
+.headDown {
+  border: 1px solid #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
 }
-.menu-bars{
-    color: white;
+.menu-bars {
+  color: white;
 }
-.menu-bars:hover{
-    color: orange;
+.menu-bars:hover {
+  color: orange;
 }
-.menu-bar{
-    display: flex;
-    gap: 1.6rem;
-    padding-left: 280px;
+.menu-bar {
+  display: flex;
+  gap: 1.6rem;
+  padding-left: 280px;
 }
-.name{
-    color: white;
-    font-family: 'Dancing Script', cursive;
-    font-size:2.5rem;
-    padding-right: 40px;
+.name {
+  color: white;
+  font-family: "Dancing Script", cursive;
+  font-size: 2.5rem;
+  padding-right: 40px;
 }
-.name1{
-    font-family: 'Dancing Script', cursive;
-    color: white;
-    font-size: 62px;
+.name1 {
+  font-family: "Dancing Script", cursive;
+  color: white;
+  font-size: 62px;
 }
-.icon
-{
-    color: white;
+.icon {
+  color: white;
 }
-.butn{
-    height: 40px;
-    width: 150px;
-    background-color: orange;
-    color: white;
-    border-radius: 20px;
-    border: 0;
+.butn {
+  height: 40px;
+  width: 150px;
+  background-color: orange;
+  color: white;
+  border-radius: 20px;
+  border: 0;
 }
-.icons{
-    display: flex;
-    gap: 1.1rem;
-    padding-left: 120px
+.icons {
+  display: flex;
+  gap: 1.1rem;
+  padding-left: 120px;
 }
-.btn1{
-    padding-left: 30px;
+.btn1 {
+  padding-left: 30px;
 }
-.menu-bars1{
-    color: orange;
+.menu-bars1 {
+  color: orange;
 }
-.para{
-    color: white;
+.para {
+  color: white;
 }
-.headerdown{
-    padding: 122px 0 0 211px;
-    flex-wrap: wrap;
+.headerdown {
+  padding: 122px 0 0 211px;
+  flex-wrap: wrap;
 }
-.btnDiv{
-    padding-top: 8px;
-    padding-bottom: 300px;
+.btnDiv {
+  padding-top: 8px;
+  padding-bottom: 300px;
 }
-.btnC{
-    background-color: orange;
-    height: 44px;
-    width: 178px;
-    border-radius: 40px;
+.btnC {
+  background-color: orange;
+  height: 44px;
+  width: 178px;
+  border-radius: 40px;
 }
-.no1{
-    border: 1px solid black;
+.no1 {
+  border: 1px solid black;
 }
-.no2{
-    border: 1px solid black;
-    margin: 50px 0 0 ;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 25px;
-    padding-bottom: 45px;
-    
-    
+.no2 {
+  border: 1px solid black;
+  margin: 50px 0 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+  padding-bottom: 45px;
 }
-.box-1{
-    display: flex;
-    border: 1px solid black;
-    height: 215px;
-    width: 555px;
-    margin: 45px 0 0;
-    padding: 20px 15px;
-    gap: 18px;
-    background-color: #222831;
-    border-radius: 5px;
+.box-1 {
+  display: flex;
+  border: 1px solid black;
+  height: 215px;
+  width: 555px;
+  margin: 45px 0 0;
+  padding: 20px 15px;
+  gap: 18px;
+  background-color: #222831;
+  border-radius: 5px;
 }
-.o1{
-    border-radius: 90px;
-    border: 5px solid orange;
-    height: 165.4px;
-    width: 165.4px;
+.o1 {
+  border-radius: 90px;
+  border: 5px solid orange;
+  height: 165.4px;
+  width: 165.4px;
 }
-.a1{
-    padding-bottom: px;
-    font-size: 24px;
+.a1 {
+  padding-bottom: px;
+  font-size: 24px;
 }
-.imgleft{
-    padding-top: 20px;
-    color: white;
-    font-family:'Dancing Script', cursive;
+.imgleft {
+  padding-top: 20px;
+  color: white;
+  font-family: "Dancing Script", cursive;
 }
-.our1{
-    padding-top: 25px;
-    font-family:'Dancing Script', cursive;
-    font-size: 40px;
-    text-align: center;
+.our1 {
+  padding-top: 25px;
+  font-family: "Dancing Script", cursive;
+  font-size: 40px;
+  text-align: center;
 }
-.points{
-    display: flex;
-    gap: 35px;
-    justify-content: center;
-    align-items: center;
-    padding-top: 20px;
-    font-size: 16px;
+.points {
+  display: flex;
+  gap: 35px;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+  font-size: 16px;
 }
-.cardimg{
+/* .cardimg{
     height: 152px;
     width: 144px;
-}
-.cardimg11{
+    border-bottom-right-radius: 45px;
+} */
+/* .cardimg11{
     display: flex;
     justify-content: center;
     align-items: center;
     padding-top: 30px;
-}
-.cart1{
-    background-color: yellow;
-}
-.cad1{
-    height: 443px;
+    padding-bottom: 30px;
+    
+} */
+/* .cart1{
+    background-color: orange;
+    /* padding-right: 50px; */
+/* } 
+/* .cad1{
+    height: 433px;
     width: 370px;
     border: 1px solid black;
-}
-.half{
+    border-radius: 15px;
+} */
+/* .half{
     background-color: #222831;
-}
-.half1{
+    height: 220px;
+    padding:30px 20px 55px 28px
+    
+} */
+/* .half1{
     color: white;
 }
 .half2{
     display: flex;
     justify-content: space-between;
+} */
+
+.divBor {
+  border: 1px solid gray;
+  width: 100%;
+  max-width: 350px;
+  min-height: 420px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.set {
+  height: 144px;
+  width: 140px;
+  
+}
+.imgD{
+    text-align: center;
+    padding: 30px 0 50px 0
+}
+.w1{
+    height: 50%; /* Lagbhag aadha */
+  width: 100%;
+  background: #f1f2f3;
+  border-radius: 15px 15px 0 0;
 }
